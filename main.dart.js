@@ -22983,7 +22983,7 @@ vR:function vR(a){this.a=a},
 zy:function zy(a,b,c){var _=this
 _.d=a
 _.y=_.x=_.w=_.r=_.f=_.e=0
-_.z="Centrifugal Pump"
+_.z="\u0e1b\u0e31\u0e49\u0e21\u0e2b\u0e2d\u0e22\u0e42\u0e02\u0e48\u0e07"
 _.Q=b
 _.a=null
 _.b=c
@@ -73254,23 +73254,23 @@ this.aG()},
 J(a){return this.a.c}}
 A.Ff.prototype={
 J(a){var s=null
-return new A.v5(new A.vR(s),"Pump Efficiency Calculator",A.xw(s,B.iN,s),s)}}
+return new A.v5(new A.vR(s),"\u0e01\u0e32\u0e23\u0e04\u0e33\u0e19\u0e27\u0e13\u0e1b\u0e23\u0e30\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e20\u0e32\u0e1e\u0e1b\u0e31\u0e49\u0e21 ",A.xw(s,B.iN,s),s)}}
 A.vR.prototype={
-ac(){return new A.zy(new A.bk(null,t.am),A.a(["Centrifugal Pump","Piston Pump","Diaphragm Pump"],t.s),B.j)}}
+ac(){return new A.zy(new A.bk(null,t.am),A.a(["\u0e1b\u0e31\u0e49\u0e21\u0e2b\u0e2d\u0e22\u0e42\u0e02\u0e48\u0e07","\u0e1b\u0e31\u0e4a\u0e21\u0e44\u0e2e\u0e14\u0e23\u0e2d\u0e25\u0e34\u0e04","\u0e1b\u0e31\u0e4a\u0e21\u0e25\u0e39\u0e01\u0e2a\u0e39\u0e1a"],t.s),B.j)}}
 A.zy.prototype={
 WO(){this.aj(new A.a96(this))},
-J(a){var s=this,r=null,q=A.hY("Pump Efficiency Calculator",r,r,r,r,r,r),p=s.z,o=s.Q,n=A.a5(o).j("ab<1,iu<z>>")
+J(a){var s=this,r=null,q=A.hY("\u0e01\u0e32\u0e23\u0e04\u0e33\u0e19\u0e27\u0e13\u0e1b\u0e23\u0e30\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e20\u0e32\u0e1e\u0e1b\u0e31\u0e49\u0e21",r,r,r,r,r,r),p=s.z,o=s.Q,n=A.a5(o).j("ab<1,iu<z>>")
 n=A.a8(new A.ab(o,new A.a98(),n),!0,n.j("b5.E"))
-p=A.adJ(A.a([A.aqW(A.oT(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,"Select Pump Type",r,r,r,r,r,r,r,r,r,r,r,r,r),n,new A.a99(s),p,t.N),A.I6(A.oT(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,"Flow Rate (m\xb3/s)",r,r,r,r,r,r,r,r,r,r,r,r,r),B.e_,new A.a9a(s)),A.I6(A.oT(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,"Pressure (Pa)",r,r,r,r,r,r,r,r,r,r,r,r,r),B.e_,new A.a9b(s)),A.I6(A.oT(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,"Input Power (W)",r,r,r,r,r,r,r,r,r,r,r,r,r),B.e_,new A.a9c(s)),A.I6(A.oT(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,"Pipe Diameter (m)",r,r,r,r,r,r,r,r,r,r,r,r,r),B.e_,new A.a9d(s)),A.I6(A.oT(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,"Elevation Difference (m)",r,r,r,r,r,r,r,r,r,r,r,r,r),B.e_,new A.a9e(s)),A.j2(r,20,r),new A.DE(s.gWN(),r,r,r,r,B.x,r,!1,r,!0,A.hY("Calculate Efficiency",r,r,r,r,r,r),r),A.j2(r,20,r),A.hY("Pump Efficiency: "+B.c.Y(s.y,2)+"%",r,r,r,A.i_(r,r,r,r,r,r,r,r,r,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],t.E),B.hH,B.f6,B.qU)
+p=A.adJ(A.a([A.aqW(A.oT(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,"\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e1b\u0e23\u0e30\u0e40\u0e20\u0e17\u0e02\u0e2d\u0e07\u0e1b\u0e31\u0e49\u0e21",r,r,r,r,r,r,r,r,r,r,r,r,r),n,new A.a99(s),p,t.N),A.I6(A.oT(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,"\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e01\u0e32\u0e23\u0e44\u0e2b\u0e25 (\u0e25\u0e1a.\u0e21./\u0e27\u0e34) Flow Rate (m\xb3/s)",r,r,r,r,r,r,r,r,r,r,r,r,r),B.e_,new A.a9a(s)),A.I6(A.oT(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,"\u0e41\u0e23\u0e07\u0e14\u0e31\u0e19\u0e19\u0e49\u0e33\u0e2d\u0e2d\u0e01 (\u0e21.) Pressure (Pa)",r,r,r,r,r,r,r,r,r,r,r,r,r),B.e_,new A.a9b(s)),A.I6(A.oT(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,"\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e17\u0e35\u0e48\u0e43\u0e0a\u0e49 (\u0e27\u0e31\u0e15\u0e15\u0e4c) Input Power (W)",r,r,r,r,r,r,r,r,r,r,r,r,r),B.e_,new A.a9c(s)),A.I6(A.oT(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,"\u0e02\u0e19\u0e32\u0e14 \u0e28\u0e01 \u0e17\u0e48\u0e2d (\u0e21.) Pipe Diameter (m)",r,r,r,r,r,r,r,r,r,r,r,r,r),B.e_,new A.a9d(s)),A.I6(A.oT(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,"\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e15\u0e48\u0e32\u0e07\u0e08\u0e32\u0e01\u0e1c\u0e34\u0e27\u0e19\u0e49\u0e33 (\u0e21.) Elevation Difference (m)",r,r,r,r,r,r,r,r,r,r,r,r,r),B.e_,new A.a9e(s)),A.j2(r,20,r),new A.DE(s.gWN(),r,r,r,r,B.x,r,!1,r,!0,A.hY("\u0e04\u0e33\u0e19\u0e27\u0e13\u0e1b\u0e23\u0e30\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e20\u0e32\u0e1e\u0e1b\u0e31\u0e49\u0e21 Calculate Efficiency",r,r,r,r,r,r),r),A.j2(r,20,r),A.hY("\u0e1b\u0e23\u0e30\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e20\u0e32\u0e1e\u0e1b\u0e31\u0e49\u0e21: "+B.c.Y(s.y,2)+"%",r,r,r,A.i_(r,r,r,r,r,r,r,r,r,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],t.E),B.hH,B.f6,B.qU)
 return new A.wj(new A.rS(q,new A.MR(r,r,1/0,56),r),new A.dI(B.BL,new A.ue(p,B.hq,s.d),r),r)}}
 A.a96.prototype={
 $0(){var s=this.a,r=s.e,q=s.f,p=s.x,o=s.w,n=s.z
 o=(r*q+p*9.81+r/(o*o)*100)/s.r
-switch(n){case"Centrifugal Pump":s.y=o*100
+switch(n){case"\u0e1b\u0e31\u0e49\u0e21\u0e2b\u0e2d\u0e22\u0e42\u0e02\u0e48\u0e07":s.y=o*100
 break
-case"Piston Pump":s.y=o*110
+case"\u0e1b\u0e31\u0e4a\u0e21\u0e44\u0e2e\u0e14\u0e23\u0e2d\u0e25\u0e34\u0e04":s.y=o*110
 break
-case"Diaphragm Pump":s.y=o*95
+case"\u0e1b\u0e31\u0e4a\u0e21\u0e25\u0e39\u0e01\u0e2a\u0e39\u0e1a":s.y=o*95
 break
 default:s.y=o*100}},
 $S:0}
